@@ -1,4 +1,4 @@
-[a link] (bin-coin-BTC-GBP.md)
-[a link] (bin-coin-LTC-GBP.md)
-[a link] (cexio-coin-BTC-GBP.md)
-[a link] (cexio-coin-LTC-GBP.md)
+[bin-coin-BTC-GBP] (bin-coin-BTC-GBP.md)
+[bin-coin-LTC-GBP] (bin-coin-LTC-GBP.md)
+[cexio-coin-BTC-GBP] (cexio-coin-BTC-GBP.md)
+[cexio-coin-BTC-GBP] (cexio-coin-LTC-GBP.md)
