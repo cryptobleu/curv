@@ -1,3 +1,5 @@
 | DateTime | Symbol | Operations | what to do | profit-loss |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 2021-08-28T16:36:12.819195| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>124.61000000</td></tr><tr><td>bin-sell</td><td>124.25000000</td></tr><tr><td>coin-buy</td><td>125.61</td></tr><tr><td>coin-sell</td><td>124.27</td></tr></table>| no-op| -0.34| 
+| 2021-08-28T17:04:58.201038| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>125.33000000</td></tr><tr><td>bin-sell</td><td>124.97000000</td></tr><tr><td>coin-buy</td><td>126.42</td></tr><tr><td>coin-sell</td><td>125.07</td></tr></table>| no-op| -0.26| 
+| 2021-08-28T17:11:03.947168| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>125.22000000</td></tr><tr><td>bin-sell</td><td>124.80000000</td></tr><tr><td>coin-buy</td><td>126.47</td></tr><tr><td>coin-sell</td><td>125.11</td></tr></table>| no-op| -0.11| 
+| 2021-08-28T17:19:14.345273| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>125.71000000</td></tr><tr><td>bin-sell</td><td>125.28000000</td></tr><tr><td>coin-buy</td><td>126.88</td></tr><tr><td>coin-sell</td><td>125.51</td></tr></table>| no-op| -0.2| 

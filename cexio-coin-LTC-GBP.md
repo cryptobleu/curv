@@ -1,3 +1,5 @@
 | DateTime | Symbol | Operations | what to do | profit-loss |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 2021-08-28T16:36:12.974714| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>coin-buy</td><td>125.61</td></tr><tr><td>coin-sell</td><td>124.27</td></tr><tr><td>cexio-buy</td><td>125.171</td></tr><tr><td>cexio-sell</td><td>125.146</td></tr></table>| no-op| -0.46| 
+| 2021-08-28T17:04:58.421885| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>coin-buy</td><td>126.42</td></tr><tr><td>coin-sell</td><td>125.07</td></tr><tr><td>cexio-buy</td><td>125.172</td></tr><tr><td>cexio-sell</td><td>125.147</td></tr></table>| no-op| -0.1| 
+| 2021-08-28T17:11:04.124489| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>coin-buy</td><td>126.47</td></tr><tr><td>coin-sell</td><td>125.11</td></tr><tr><td>cexio-buy</td><td>125.197</td></tr><tr><td>cexio-sell</td><td>125.172</td></tr></table>| no-op| -0.09| 
+| 2021-08-28T17:19:14.537842| LTCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>coin-buy</td><td>126.88</td></tr><tr><td>coin-sell</td><td>125.51</td></tr><tr><td>cexio-buy</td><td>125.339</td></tr><tr><td>cexio-sell</td><td>125.314</td></tr></table>| buycexio-sellcoin| 0.17| 
