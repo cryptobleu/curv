@@ -2,3 +2,4 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 2021-08-29T10:42:28.526380| ETCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>46.51000000</td></tr><tr><td>bin-sell</td><td>46.38000000</td></tr><tr><td>coin-buy</td><td>46.91</td></tr><tr><td>coin-sell</td><td>46.41</td></tr></table>| no-op| -0.1| 
 | 2021-08-29T10:46:38.589188| ETCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>46.48000000</td></tr><tr><td>bin-sell</td><td>46.28000000</td></tr><tr><td>coin-buy</td><td>46.91</td></tr><tr><td>coin-sell</td><td>46.37</td></tr></table>| no-op| -0.11| 
+| 2021-08-29T10:49:49.519967| ETCGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>46.48000000</td></tr><tr><td>bin-sell</td><td>46.39000000</td></tr><tr><td>coin-buy</td><td>46.88</td></tr><tr><td>coin-sell</td><td>46.38</td></tr></table>| no-op| -0.1| 

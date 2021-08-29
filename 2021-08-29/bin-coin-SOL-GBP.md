@@ -2,3 +2,4 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 2021-08-29T10:42:29.441693| SOLGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>66.72000000</td></tr><tr><td>bin-sell</td><td>66.45000000</td></tr><tr><td>coin-buy</td><td>67.28</td></tr><tr><td>coin-sell</td><td>66.55</td></tr></table>| no-op| -0.17| 
 | 2021-08-29T10:46:39.306487| SOLGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>66.69000000</td></tr><tr><td>bin-sell</td><td>66.52000000</td></tr><tr><td>coin-buy</td><td>67.37</td></tr><tr><td>coin-sell</td><td>66.63</td></tr></table>| no-op| -0.06| 
+| 2021-08-29T10:49:50.792142| SOLGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>67.22000000</td></tr><tr><td>bin-sell</td><td>67.00000000</td></tr><tr><td>coin-buy</td><td>67.86</td></tr><tr><td>coin-sell</td><td>67.10</td></tr></table>| no-op| -0.12| 

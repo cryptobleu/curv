@@ -2,3 +2,4 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 2021-08-29T10:42:30.458528| DOTGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>18.80000000</td></tr><tr><td>bin-sell</td><td>18.76000000</td></tr><tr><td>coin-buy</td><td>19.02</td></tr><tr><td>coin-sell</td><td>18.80</td></tr></table>| no-op| 0.0| 
 | 2021-08-29T10:46:40.119382| DOTGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>18.81000000</td></tr><tr><td>bin-sell</td><td>18.75000000</td></tr><tr><td>coin-buy</td><td>18.98</td></tr><tr><td>coin-sell</td><td>18.78</td></tr></table>| no-op| -0.03| 
+| 2021-08-29T10:49:52.386199| DOTGBP| <table><tr><td>optype</td><td>price</td></tr><tr><td>bin-buy</td><td>18.82000000</td></tr><tr><td>bin-sell</td><td>18.75000000</td></tr><tr><td>coin-buy</td><td>19.01</td></tr><tr><td>coin-sell</td><td>18.81</td></tr></table>| no-op| -0.01| 
